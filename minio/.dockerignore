@@ -1,0 +1,6 @@
+data/
+config/
+
+Makefile
+start.sh
+minio.env
